@@ -5,11 +5,11 @@
 > > >		2. Find out how long it takes for the final amount to reach a certain number. (ex. enter 1000000 to see when your investment will reach 1M at the specified interest rate)
 >
 > A = P(1+r/n)^nt
-> A -> Final Amount
-> P -> Initial Principal
-> r -> Nominal Interest
-> n -> Number of times interest compounded
-> t -> Number of years
+- A -> Final Amount
+- P -> Initial Principal
+- r -> Nominal Interest
+- n -> Number of times interest compounded
+- t -> Number of years
 
 
 

@@ -49,6 +49,9 @@ coverage.xml
 *.mo
 *.pot
 
+# Transitions
+*.swp
+
 # Django stuff:
 *.log
 
